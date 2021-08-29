@@ -1,1 +1,1 @@
-# Oh-my-Zsh-myconfig.zshrc
+# Oh-my-Zsh-myconfig
