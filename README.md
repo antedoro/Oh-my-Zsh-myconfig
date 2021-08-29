@@ -1,0 +1,1 @@
+# Oh-my-Zsh-myconfig.zshrc
